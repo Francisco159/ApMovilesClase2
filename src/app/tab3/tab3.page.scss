@@ -1,0 +1,49 @@
+ion-label {
+    display: block;
+}
+
+.bold {
+    font-weight: bold;
+    font-size: 18px;
+    padding-top: 12px;
+}
+
+.popular {
+    font-size: 13px;
+    padding-top: 2px;
+}
+
+.name {
+    font-weight: bold;
+}
+
+#descripName {
+    font-size: 13px;
+    padding: 2px;
+    font-weight: lighter;
+}
+
+.datos {
+    text-align: center;
+}
+
+.descripcion{
+    display: block;
+}
+
+.boton {
+    width: 100%;
+    border-radius: 4px;
+    font-size: 25px;
+    background-color: white;
+    border: 2px solid gray;
+    margin-top: 10px;
+}
+
+.images {
+    margin-top: 20px;
+}
+
+ion-toolbar {
+    box-shadow: none;
+}
